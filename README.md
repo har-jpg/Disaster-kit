@@ -1,4 +1,4 @@
 # Disaster kit
 
-Disaster kit‚Í”íÐŽÒŒü‚¯ƒ`ƒƒƒbƒgƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Å‚·B
-‘Î‰ž‹@Ží‚ÍAndorid’[––
+Disaster kitã¯è¢«ç½è€…å‘ã‘ãƒãƒ£ãƒƒãƒˆã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã§ã™ã€‚\n
+å¯¾å¿œæ©Ÿç¨®ã¯Andoridç«¯æœ«
